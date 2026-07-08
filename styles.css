@@ -19,13 +19,12 @@ img{display: block;
 	margin: auto}
 
 #secret a {color: #FCE9FB;}
-	a:hover {color: #ED80DD;}
+	#secret a:hover{color: #ED80DD;}
 
 ul{list-style-type: none;
 	margin:5px;
 	padding:0;
 	overflow: hidden;
-	
 	padding: 15px;
 	font-family: Helvetica;
 	font-size: 20px;}
@@ -34,7 +33,6 @@ ul{list-style-type: none;
 			border-style: solid;
 			border-color: #B71A9F;
 			border-width: 5px;}
-
 
 		ul li a {display:block;
 			color: #FCE9FB;
